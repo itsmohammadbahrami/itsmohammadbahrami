@@ -5,9 +5,9 @@ Front-End Engineer
 
 ![Front-End](https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif)
 ------------------
-I've been doing web development since 2017 who is familiar
-with a wide verity of client-side topics such as languages, automation tools,
-and architectures. Also, managing developers in large projects was another
+I've been doing web development since 2017 and I'm familiar
+with a wide variety of client-side topics such as languages, automation tools,
+and architectures. Also, managing developers on large projects was another
 experience that proved to be very demonstrative.
 
 * 🌍  I'm based in Tehran
